@@ -1,2 +1,2 @@
 # train-fitness
-Projeto criado via Lasy - copia-trainfitness
+Projeto criado via Lasy - train-fitness
